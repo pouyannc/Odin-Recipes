@@ -1,4 +1,4 @@
-# Odin-Recipes
+# Pasta-recipes-website
 
 Basic recipe website
 
